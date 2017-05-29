@@ -1,0 +1,1 @@
+Simple example project showing the use of Fabric8io's Docker Maven plugin and how easy it is to deploy and functionally test an application in a Docker container as part of the build process.
